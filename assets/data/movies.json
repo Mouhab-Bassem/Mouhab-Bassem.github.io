@@ -1,0 +1,313 @@
+[
+	{
+		"catName": "Aciton",
+		"catId": 1,
+		"onlyCat": "same",
+		"catPhoto": "URL",
+		"moviesList": [
+			{
+				"movieId": 1,
+				"movieName": "Action 1"
+			}
+		]
+	},
+
+	{
+		"catName": "Family",
+		"catId": 2,
+		"onlyCat": "same",
+		"catPhoto": "URL",
+		"moviesList": [
+			{
+				"movieId": 1,
+				"movieName": "Family 1"
+			}
+		]
+	},
+
+	{
+		"catName": "Animation",
+		"catId": 3,
+		"onlyCat": "same",
+		"catPhoto": "URL",
+		"moviesList": [
+			{
+				"movieId": 1,
+				"movieName": "Comdey 1"
+			}
+		]
+	},
+
+	{
+		"catName": "Romance",
+		"catId": 4,
+		"onlyCat": "same",
+		"catPhoto": "URL",
+		"moviesList": [
+			{
+				"movieId": 1,
+				"movieName": "Romance 1"
+			}
+		]
+	},
+
+	{
+		"catName": "Comedy",
+		"catId": 5,
+		"onlyCat": "same",
+		"catPhoto": "URL",
+		"moviesList": [
+			{
+				"movieId": 1,
+				"movieName": "Animation 1"
+			}
+		]
+	},
+
+	{
+		"catName": "SlideMovies",
+		"catId": 6,
+		"moviesList": [
+			
+			{
+				"movieId": 1,
+				"movieName": "The Meg",
+				"movieTime": "Thriller/Fantasy ‧ 1h 52m",
+				"movieDisc": "Previously thought to be extinct, a massive creature attacks a deep-sea submersible, leaving it disabled and trapping the crew at the bottom of the Pacific. With time running out, a visionary oceanographer recruits rescue diver Jonas Taylor to save the crew and the sea itself from an unimaginable threat -- a 75-foot-long prehistoric shark known as the Megalodon.",
+				"bgImage": "/assets/images/megbg.jpg",
+				"bgPoster": "assets/images/megposter.jpg",
+				"release": "August 8, 2018",
+				"director": "Jon Turteltaub",
+				"boxOffice": "527.8 million USD",
+				"story": "Steve Alten",
+				"producers": "Belle Avery, Lorenzo di Bonaventura, Colin Wilson"
+			},
+			
+			{
+				"movieId": 2,
+				"movieName": "Venom",
+				"movieTime": "Thriller/Science Fiction ‧ 2h 20m",
+				"movieDisc": "Journalist Eddie Brock is trying to take down Carlton Drake, the notorious and brilliant founder of the Life Foundation. While investigating one of Drake's experiments, Eddie's body merges with the alien Venom -- leaving him with superhuman strength and power. Twisted, dark and fueled by rage, Venom tries to control the new and dangerous abilities that Eddie finds so intoxicating.",
+				"bgImage": "/assets/images/venombg.jpg",
+				"bgPoster": "assets/images/venomposter.jpg",
+				"release": "October 4, 2018",
+				"director": "Ruben Fleischer",
+				"boxOffice": "200.3 million USD",
+				"story": "Not Avaiable",
+				"producers": "Avi Arad, Amy Pascal, Matt Tolmach"
+			},
+			{
+				"movieId": 3,
+				"movieName": "Avengers Infitiy War",
+				"movieTime": "Fantasy/Science Fiction ‧ 2h 40m",
+				"movieDisc": "Iron Man, Thor, the Hulk and the rest of the Avengers unite to battle their most powerful enemy yet -- the evil Thanos. On a mission to collect all six Infinity Stones, Thanos plans to use the artifacts to inflict his twisted will on reality. The fate of the planet and existence itself has never been more uncertain as everything the Avengers have fought for has led up to this moment.",
+				"bgImage": "/assets/images/avengerbg.jpg",
+				"bgPoster": "assets/images/avengerposter.jpg",
+				"release": "April 23, 2018",
+				"director": "Anthony Russo, Joe Russo",
+				"boxOffice": "2.047 billion USD",
+				"story": "Not Avaiable",
+				"producers": "Kevin Feige"
+				
+			}
+			
+		]
+	},
+
+	{
+		"catName": "PopularMovies",
+		"catId": 7,
+		"moviesList": [
+			{
+				"movieId": 1,
+				"movieName": "Mr.Peobody & Sherman",
+				"movieTime": "2Hour And 20Min",
+				"movieDisc": "Mr. Peabody (Ty Burrell), the most accomplished canine in the world, and his boy, Sherman (Max Charles), use a time machine called the Wabac to embark on outrageous adventures. However, when Sherman takes the Wabac without permission to impress his friend Penny (Ariel Winter), he accidentally rips a hole in the universe and causes havoc with world history. It's up to Mr. Peabody to mount a rescue and prevent the past, present and future from being permanently altered",
+				"bgImage": "../../assets/images/mrpbodybg.jpg"
+				
+			},
+			{
+				"movieId": 2,
+				"movieName": "DEADPOOL 2",
+				"movieTime": "2Hour And 20Min",
+				"movieDisc": "Wisecracking mercenary Deadpool meets Russell, an angry teenage mutant who lives at an orphanage. When Russell becomes the target of Cable -- a genetically enhanced soldier from the future -- Deadpool realizes that he'll need some help saving the boy from such a superior enemy. He soon joins forces with Bedlam, Shatterstar, Domino and other powerful mutants to protect young Russell from Cable and his advanced weaponry.",
+				"bgImage": "../../assets/images/deadbbg.png"
+				
+			},
+			{
+				"movieId": 3,
+				"movieName": "In Time",
+				"movieTime": "2Hour And 20Min",
+				"movieDisc": "In a future where time is money and the wealthy can live forever, Will Salas (Justin Timberlake) is a poor man who rarely has more than a day's worth of life on his time clock. When he saves Henry Hamilton (Matt Bomer) from time thieves, Will receives the gift of a century. However, such a large transaction attracts the attention of the authorities, and when Will is falsely accused of murder, he must go on the run, taking the daughter (Amanda Seyfried) of an incredibly wealthy man with him.",
+				"bgImage": "../../assets/images/intimebg.jpg"
+				
+			},
+			{
+				"movieId": 4,
+				"movieName": "Big Hero 6",
+				"movieTime": "2Hour And 20Min",
+				"movieDisc": "Robotics prodigy Hiro (Ryan Potter) lives in the city of San Fransokyo. Next to his older brother, Tadashi, Hiro's closest companion is Baymax (Scott Adsit)",
+				"bgImage": "../../assets/images/bigherobg.png"
+				
+			},
+			{
+				"movieId": 5,
+				"movieName": "Hidden Figuers",
+				"movieTime": "2Hour And 20Min",
+				"movieDisc": "Three brilliant African-American women at NASA -- Katherine Johnson (Taraji P. Henson), Dorothy Vaughan (Octavia Spencer) and Mary Jackson (Janelle Monáe) -- serve as the brains behind one of the greatest operations in history: the launch of astronaut John Glenn (Glen Powell) into orbit, a stunning achievement that restored the nation's confidence, turned around the Space Race and galvanized the world.",
+				"bgImage": "../../assets/images/hfigerbg.jpg"
+				
+			},
+			{
+				"movieId": 6,
+				"movieName": "Ender's Game",
+				"movieTime": "2Hour And 20Min",
+				"movieDisc": "When hostile aliens called the Formics attack Earth, only the legendary heroics of Mazer Rackham (Ben Kingsley) manage to attain a victory. To prepare for the next attack, Col. Hyrum Graff (Harrison Ford) and his cohorts initiate a military program to find the next Mazer. Recruit Ender Wiggin (Asa Butterfield) exhibits an unusual gift for the training, easily mastering all of the challenges thrown at him. Mazer Rackham, himself, takes Ender as a protege to prepare him for the oncoming war.",
+				"bgImage": "../../assets/images/endersbg.jpg"
+				
+			},
+			{
+				"movieId": 7,
+				"movieName": "Venom",
+				"movieTime": "2Hour And 20Min",
+				"movieDisc": "Journalist Eddie Brock is trying to take down Carlton Drake, the notorious and brilliant founder of the Life Foundation. While investigating one of Drake's experiments, Eddie's body merges with the alien Venom -- leaving him with superhuman strength and power. Twisted, dark and fueled by rage, Venom tries to control the new and dangerous abilities that Eddie finds so intoxicating.",
+				"bgImage": "../../assets/images/venombg.jpg"
+				
+			}
+		]
+	},
+
+	{
+		"catName": "BoxOffice",
+		"catId": 8,
+		"catPhoto": "URL",
+		"moviesList": [
+			{
+				"movieId": 1,
+				"movieName": "#1 Bohemian Rhapsody",
+				"totalGross": "$50.1M"
+			},
+			{
+				"movieId": 2,
+				"movieName": "#2 Nutcracker Four Realms",
+				"totalGross": "$20.4M"
+			},
+			{
+				"movieId": 3,
+				"movieName": "#3 Nobody's Fool",
+				"totalGross": "$13.7M"
+			},
+			{
+				"movieId": 4,
+				"movieName": "#4 A Star Is Born",
+				"totalGross": "$11.1M"
+			},
+			{
+				"movieId": 5,
+				"movieName": "#5 Halloween",
+				"totalGross": "$10.8M"
+			},
+			{
+				"movieId": 6,
+				"movieName": "#6 Venom",
+				"totalGross": "$7.9M"
+			},
+			{
+				"movieId": 7,
+				"movieName": "#7 Smallfoot",
+				"totalGross": "$3.9M"
+			},
+			{
+				"movieId": 8,
+				"movieName": "#8 Goosebumps 2",
+				"totalGross": "$3.8M"
+			},
+			{
+				"movieId": 9,
+				"movieName": "#9 Hunter Killer",
+				"totalGross": "$3.5M"
+			},
+			{
+				"movieId": 10,
+				"movieName": "#10 The Hate U Give",
+				"totalGross": "$3.4M"
+			}
+		]
+	},
+
+	{
+		"catName": "comingMovies",
+		"catId": 9,
+		"catPhoto": "URL",
+		"moviesList": [
+			{
+				"movieId": 1,
+				"movieName": "Hobbs & Shaw",
+				"moviePhoto": "../../assets/images/hobsbg.jpg"
+			},
+			{
+				"movieId": 2,
+				"movieName": "Mowgli",
+				"moviePhoto": "../../assets/images/mowglibg.jpg"
+			},
+			{
+				"movieId": 3,
+				"movieName": "The Aftermath",
+				"moviePhoto": "../../assets/images/aftermathbg.jpg"
+			},
+			{
+				"movieId": 4,
+				"movieName": "Escape Room",
+				"moviePhoto": "../../assets/images/escapebg.jpg"
+			},
+			{
+				"movieId": 5,
+				"movieName": "Glass",
+				"moviePhoto": "../../assets/images/glassbg.jpg"
+			},
+			{
+				"movieId": 6,
+				"movieName": "Captain Marvel",
+				"moviePhoto": "../../assets/images/marvelbg.jpg"
+			},
+			{
+				"movieId": 7,
+				"movieName": "The Prodigy",
+				"moviePhoto": "../../assets/images/prodgibg.jpg"
+			}
+		]
+	},
+
+	{
+		"catName": "News",
+		"catId": 10,
+		"catPhoto": "URL",
+		"newsList": [
+			{
+				"newsId": 1,
+				"newsDetail": "Cheryl Burke Reveals Matthew Lawrence Has Massive 'Animal Farm' in Their Home (Exclusive)",
+				"newsPhoto": "../../assets/images/newsbg1.jpg"
+			},
+			{
+				"newsId": 2,
+				"newsDetail": "Michael Douglas Gets Emotional as Dad Kirk Supports Him at Walk of Fame Ceremony",
+				"newsPhoto": "../../assets/images/newsbg2.jpg"
+			},
+			{
+				"newsId": 3,
+				"newsDetail": "Hailey Baldwin Sparkles at Her Holiday Collection Launch Party",
+				"newsPhoto": "../../assets/images/newsbg3.jpg"
+			},
+			{
+				"newsId": 4,
+				"newsDetail": "Mike Myers Revives 'Austin Powers' Character Dr. Evil to Run in Midterm Elections",
+				"newsPhoto": "../../assets/images/newsbg4.jpg"
+			},
+			{
+				"newsId": 5,
+				"newsDetail": "John Stamos Almost Watched 'Fuller House' While Giving a Sample at a Fertility Clinic",
+				"newsPhoto": "../../assets/images/newsbg5.jpg"
+			}
+		]
+	}
+]
